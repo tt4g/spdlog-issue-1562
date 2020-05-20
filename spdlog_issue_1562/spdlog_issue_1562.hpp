@@ -3,8 +3,8 @@
 
 #include "spdlog_issue_1562_export.hpp"
 
-#include "spdlog/fmt/ostr.h"
 #include "spdlog/spdlog.h"
+#include "spdlog/fmt/ostr.h"
 
 #include <memory>
 #include <vector>
